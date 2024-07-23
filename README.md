@@ -7,18 +7,19 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End eğitiminde oluşturd
 
 [Öncelikle bu projeyi clonelayın.](https://github.com/aleyykaraagac/kodluyoruzilkrepo.git)
 
-'python
-git clone https://github.com/aleyykaraagac/kodluyoruzilkrepo.git'
-
+`git
+git clone https://github.com/aleyykaraagac/kodluyoruzilkrepo.git
+`
 
 ## Usage
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
-'''javascript
+```linux
 cd kodluyoruzilkrepo
-code .'''
+code .
+```
 
 ## Contributing
 
