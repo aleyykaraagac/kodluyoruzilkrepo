@@ -8,8 +8,8 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End eğitiminde oluşturd
 [Öncelikle bu projeyi clonelayın.](https://github.com/aleyykaraagac/kodluyoruzilkrepo.git)
 
 'python
-git clone https://github.com/aleyykaraagac/kodluyoruzilkrepo.git 
-'
+git clone https://github.com/aleyykaraagac/kodluyoruzilkrepo.git'
+
 
 ## Usage
 
@@ -18,8 +18,8 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 Linux için:
 '''javascript
 cd kodluyoruzilkrepo
-code .
-'''
+code .'''
+
 ## Contributing
 
 Pull requestler kabul edilir. Büyük değişimler için,lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
